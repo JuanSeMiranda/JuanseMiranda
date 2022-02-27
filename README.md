@@ -9,9 +9,8 @@
     
 <!-- Background -->
 
- 🌱 I’m currently learning the basics of IT at UTEC, since 2020 and here you will find some of the projects which I have been working ...
+ 🌱 I’m currently learning the basics of IT at UTEC, here you will find some of the projects which I have been working ...
 
-<!-- I do this to center the GIFT ._. -->
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif" alt="gif" </img>
 </p>
