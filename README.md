@@ -17,7 +17,7 @@
 
 
 <!-- Features -->
-<p><H3 align="center"><strong> Languajes and tools: 💻 </strong></p>
+<p><H3 align="center"><strong> Languages and tools: 💻 </strong></p>
 <br>
     
   <!-- Icons -->
